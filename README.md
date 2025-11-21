@@ -1,6 +1,6 @@
 # Proyecto de análisis comercial para Data Analytics - ÍCARO 
 
-Como parte del curso de Data Analytics dictado por ÍCARO y avalado por la Universidad Nacional de Córdoba y para su aprobación final se realizó un análisis de evolución de indicadores en una cadena de insumos informáticos con recomendaciones finales. La base de datos fue brindada por la misma institución en formato Excel y se procesó de la siguiente manera:
+Como parte del curso de Data Analytics dictado por ÍCARO (avalado por la Universidad Nacional de Córdoba)  y para su aprobación final se realizó un análisis de evolución de indicadores en una cadena de insumos informáticos con recomendaciones finales. La base de datos fue brindada por la misma institución en formato Excel y se procesó de la siguiente manera:
 
 - Aplicación completa de ETL (Extract, Transform, Load). Con una limpieza de datos realizada en Power Query.
 - Se determinaron métricas y KPIs relevantes para el área comercial en base a experiencias en el rubro de comercio.
